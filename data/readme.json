@@ -2,20 +2,17 @@
   "id": 50,
   "created_at": "2025-01-23T00:00:00Z",
   "seo_title": "Pinterest Downloader - Free Content Download Tool",
-  "seo_description": "https://serp.ly/pinterest-downloader",
+  "seo_description": null,
   "product_page_url": "https://store.serp.co/product-details/product/pinterest-downloader",
   "purchase_url": "https://serp.ly/pinterest-downloader",
   "store_product_id": null,
   "name": "Pinterest Downloader",
-  "tagline": "https://serp.ly/pinterest-downloader",
-  "featured_image": "images/pinterest-downloader.jpg",
-  "featured_image_gif": "images/pinterest-downloader.gif",
+  "tagline": "Save Pinterest boards, pins, and videos in original quality",
+  "featured_image": "https://raw.githubusercontent.com/serpapps/pinterest-downloader/assets/images/pinterest-downloader.jpg",
+  "featured_image_gif": "https://raw.githubusercontent.com/serpapps/pinterest-downloader/assets/images/pinterest-downloader.gif",
   "github_repo_url": "https://github.com/serpapps/pinterest-downloader",
   "github_repo_tags": [
-    "pinterest-downloader",
-    "downloader",
-    "automation",
-    "tools"
+    "pinterest-downloader"
   ],
   "github_gist_url": null,
   "features": [
@@ -55,13 +52,11 @@
     "Node.js",
     "Automation"
   ],
-  "serpco_product_page_link": "https://store.serp.co/product-details/product/pinterest-downloader",
-  "serpai_product_page_link": null,
+  "serpco_product_page_link": "https://serp.co/products/pinterest-downloader/reviews/",
+  "serpai_product_page_link": "https://serp.ai/products/pinterest-downloader/reviews/",
   "file_formats": null,
   "categories": [
-    "Video Downloaders",
-    "Content Tools",
-    "Automation"
+    "social media site"
   ],
   "extraction_targets": null,
   "content_medium": null,
@@ -72,21 +67,18 @@
     "devinschumacher"
   ],
   "funding_links_liberapay": [
-    "serply"
+    "devinschumacher"
   ],
   "funding_links_opencollective": [
-    "serply"
+    "devinschumacher"
   ],
   "funding_links_custom": [
     "https://serpapps.github.io/pinterest-downloader",
     "https://devinschumacher.com/pinterest-downloader",
-    "https://serp.co/products/pinterest-downloader/reviews/"
+    "https://serp.co/products/pinterest-downloader/",
+    "https://github.com/sponsors/devinschumacher"
   ],
   "keywords": [
-    "pinterest",
-    "downloader",
-    "automation",
-    "tool",
-    "free"
+    "pinterest downloader"
   ]
 }
