@@ -12,15 +12,15 @@ Pinterest Downloader is a browser extension built for users who want a cleaner w
 
 ## Links
 
-- 🚀 Get it here: [Pinterest Downloader](https://serp.ly/pinterest-downloader)
-- 🆕 Latest release: [GitHub Releases](https://github.com/serpapps/pinterest-downloader/releases/latest)
-- ❓ Help center: [SERP Help](https://help.serp.co/en/)
-- 🐛 Report bugs: [GitHub Issues](https://github.com/serpapps/pinterest-downloader/issues)
-- 💡 Request features: [Feature Requests](https://github.com/serpapps/pinterest-downloader/issues)
+- ðŸš€ Get it here: [Pinterest Downloader](https://serp.ly/pinterest-downloader)
+- ðŸ†• Latest release: [GitHub Releases](https://github.com/serpapps/pinterest-downloader/releases/latest)
+- â“ Help center: [SERP Help](https://help.serp.co/en/)
+- ðŸ› Report bugs: [GitHub Issues](https://github.com/serpapps/pinterest-downloader/issues)
+- ðŸ’¡ Request features: [Feature Requests](https://github.com/serpapps/pinterest-downloader/issues)
 
 ## Preview
 
-![Pinterest Downloader workflow preview](assets/workflow-preview.svg)
+![Pinterest Downloader workflow preview](assets/workflow-preview.webp)
 
 ## Table of Contents
 
