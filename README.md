@@ -136,19 +136,19 @@ Start here: [https://serp.ly/pinterest-downloader](https://serp.ly/pinterest-dow
 
 ## FAQ
 
-**Can it save Pinterest videos**  
+**Can it save Pinterest videos?**  
 Yes. Supported Pinterest video pins can be exported as MP4 files.
 
-**Can I download images too**  
+**Can I download images too?**  
 Yes. Visible image pins can be saved in the source format when available.
 
-**Can I bulk-download a board page**  
+**Can I bulk-download a board page?**  
 Yes. The extension supports bulk export for visible pins on the current page.
 
-**Do I need extra software**  
+**Do I need extra software?**  
 No. Everything runs through the browser extension.
 
-**What if I load more pins by scrolling**  
+**What if I load more pins by scrolling?**  
 Rescan after scrolling so the newly visible pins get added.
 
 ## Notes
