@@ -10,6 +10,12 @@ Pinterest Downloader is a browser extension built for users who want a cleaner w
 - Bulk-download visible pins from the current page
 - Keep local copies of boards, search results, and pin collections
 
+## Watch The Video
+
+<a href="https://www.youtube.com/watch?v=Y4KBki9iKxY" target="_blank">
+<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/pinterest-downloader-save-videos-before-they-disappear.jpg" width="700px">
+</a>
+
 ## Links
 
 - :rocket: Get it here: [Pinterest Downloader](https://serp.ly/pinterest-downloader)
@@ -20,7 +26,7 @@ Pinterest Downloader is a browser extension built for users who want a cleaner w
 
 ## Preview
 
-![Pinterest Downloader workflow preview](assets/workflow-preview.webp)
+![Pinterest Downloader workflow preview](https://raw.githubusercontent.com/serpapps/pinterest-downloader/refs/heads/main/assets/workflow-preview.webp)
 
 ## Table of Contents
 
