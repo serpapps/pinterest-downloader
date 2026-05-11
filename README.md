@@ -1,11 +1,5 @@
 # Pinterest Downloader (Browser Extension)
 
-## Watch the video
-
-<a href="https://www.youtube.com/watch?v=Y4KBki9iKxY" target="_blank">
-<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/pinterest-downloader-save-videos-before-they-disappear.jpg" width="700px">
-</a>
-
 > Download Pinterest videos, images, pins, and post text in one browser workflow.
 
 Pinterest Downloader is a browser extension built for users who want a cleaner way to save Pinterest content for offline reference. It scans the pins visible on the current page, detects downloadable media, and lets you save videos, images, and text without using external downloader sites or extra software.
