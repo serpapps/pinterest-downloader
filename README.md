@@ -1,4 +1,4 @@
-# Pinterest Downloader (Browser Extension)
+# Pinterest Video Downloader (Browser Extension)
 
 > Download Pinterest videos, images, pins, and post text in one browser workflow.
 
@@ -12,7 +12,7 @@ Pinterest Downloader is a browser extension built for users who want a cleaner w
 
 ## Links
 
-- :rocket: Get it here: [Pinterest Downloader](https://serp.ly/pinterest-downloader)
+- :rocket: Get it here: [Pinterest Downloader](https://serp.ly/pinterest-downloader?via=github)
 - :new: Latest release: [GitHub Releases](https://github.com/serpapps/pinterest-downloader/releases/latest)
 - :question: Help center: [SERP Help](https://help.serp.co/en/)
 - :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/pinterest-downloader/issues)
@@ -125,7 +125,7 @@ The extension only works on content you can already access in your current Pinte
 - No credit card required for the trial
 - Unlimited downloads are available with a paid license
 
-Start here: [https://serp.ly/pinterest-downloader](https://serp.ly/pinterest-downloader)
+Start here: [https://serp.ly/pinterest-downloader?via=github](https://serp.ly/pinterest-downloader?via=github)
 
 ## Installation Instructions
 
